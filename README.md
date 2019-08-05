@@ -14,8 +14,8 @@
 * A user cannot add the same Pokemon to their team.
 
 ### Built With
-https://reactjs.org/
-https://pokeapi.co/
+* https://reactjs.org/
+* https://pokeapi.co/
 
 
 ### Stretch Functions
